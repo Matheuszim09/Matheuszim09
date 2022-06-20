@@ -8,7 +8,7 @@ nao esqueça que todos os dias sao iguais mas quem faz a diferença e voce <b>!D
 
 </body>
 </html>
-😃<!DOCTYPE html>
+<!DOCTYPE html>
 <html>
 <style>
 body {
@@ -23,7 +23,6 @@ body {
 
 </body>
 </html>
-😎
 
 
 
